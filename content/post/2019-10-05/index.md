@@ -11,7 +11,7 @@ title: 2020-10-05
 
 ## Research Progress
 
-My first post. Other [syntax examples](https://sourcethemes.com/academic/docs/writing-markdown-latex/) could be found on the website.
+My first post! Other [syntax examples](https://sourcethemes.com/academic/docs/writing-markdown-latex/) could be found on the website.
 
 
 ### Timeline

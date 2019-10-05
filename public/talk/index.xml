@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks | Home</title>
+    <link>/talk/</link>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Talks</title>
+      <link>/talk/</link>
+    </image>
+    
+    <item>
+      <title>Poster Presentation</title>
+      <link>/talk/posterpresentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/talk/posterpresentation/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Time&lt;/th&gt;
+&lt;th&gt;Location&lt;/th&gt;
+&lt;th&gt;Title&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;2019 - SfN&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Chicago, IL&lt;/td&gt;
+&lt;td&gt;Altered Alpha and Beta Oscillations in Parietal and Occipital Cortices in Chronic Jaw Pain&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;2018 - CuttingEEG&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Paris, France&lt;/td&gt;
+&lt;td&gt;Chronic Jaw Pain is Characterized by Altered Beta Oscillations in Sensorimotor and Prefrontal Cortex&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;2018 - NCM&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Santa Fe, NM&lt;/td&gt;
+&lt;td&gt;Functional Brain Activity During Motor Control and Pain Processing in chronic jaw-pain. Neural Control of Movement&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;2018 - OHBM&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Singapore&lt;/td&gt;
+&lt;td&gt;Chronic Jaw Pain is Characterized by Altered Beta Oscillations in Sensorimotor and Prefrontal Cortex&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;2017 - Progress in Motor Control XI&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Miami, FL&lt;/td&gt;
+&lt;td&gt;Motor-evoked Pain Increases Force Variability in Chronic Jaw Pain&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Public Talks</title>
+      <link>/talk/public-talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/talk/public-talk/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Time&lt;/th&gt;
+&lt;th&gt;Event&lt;/th&gt;
+&lt;th&gt;Title&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;2019&lt;/td&gt;
+&lt;td&gt;Three Minute Thesis competition @ UF&lt;/td&gt;
+&lt;td&gt;Mapping Chronic Pain in the Brain&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;2018&lt;/td&gt;
+&lt;td&gt;APK Pizza and Podium @ UF&lt;/td&gt;
+&lt;td&gt;EEG analysis and Pain&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;2017&lt;/td&gt;
+&lt;td&gt;LRN Lab Seminar @ UF&lt;/td&gt;
+&lt;td&gt;EEG 101&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;2017&lt;/td&gt;
+&lt;td&gt;UF Graduate Student Research Day&lt;/td&gt;
+&lt;td&gt;Motor-evoked Pain Increases Force Variability in Chronic Jaw Pain&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

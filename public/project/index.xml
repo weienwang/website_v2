@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Home</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 16 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Project Overview</title>
+      <link>/project/overview-project/</link>
+      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/project/overview-project/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+
+At first, we studied the pain system (gray circle) and motor system (yellow circle) separately for healthy adults and chronic pain patients (top to bottom).  In project 1, we use EEG and behavioral measurement to characterize neural oscillations of acute pain processing in healthy subjects and chronic pain patient population. We identified increase in gamma and theta power in the medial prefrontal cortex and decrease in lower beta power in the sensorimotor cortex were associated with increase in acute pain perception in healthy controls (Misra et al., J Neurophys 2017). In the motor system, we identified that upper limb movement is associated with an increase in theta and reduction in alpha and beta power in the somatosensory regions (Ofori et al., 2015). Further, we used a paradigm in which voluntary movements were executed during an ongoing pain-eliciting stimulus to test the hypothesis that a pain-related suppression of beta oscillations would facilitate the initiation of a subsequent voluntary movement. The result showed that upper limb movement with concurrent heat stimulation lead to greater reductions in alpha and beta power in sensorimotor regions (Misra et al., 2016). Lastly, we investigated the intersection of movement and pain in people with chronic musculoskeletal pain condition, where the pain is intrinsically induced by movement as we called movement-evoked pain (Project  2/ Thesis project).
+
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thesis Project</title>
+      <link>/project/thesis-project/</link>
+      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/project/thesis-project/</guid>
+      <description>&lt;p&gt;&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;h1 style = &#34;font-size:30px; font-weight:bold&#34;&gt; Introduction &lt;/h1&gt;
+Low back pain (LBP) is associated with $200 billion in lost wages and productivity annually and accounts for over 3.7 million physician visits per year in the United States alone. One common symptom for individuals with cLBP is exacerbated movement-evoked pain during flexion of the lumbar spine, which can lead to significant limitations in function. Recent studies have proposed that assessing movement-evoked pain in individuals with persistent musculoskeletal pain might capture distinct dimensions of pain. Although emerging behavioral paradigms have been proposed to assess movement-evoked back pain, the cortical processes underlying movement-evoked pain in individuals with cLBP are not well understood. Characterizing changes in brain function that are associated with movement-evoked pain, and evaluating how generalizable these changes are, will advance our understanding of the neurophysiological signature of cLBP. The primary goal of this study is to determine the neural oscillations that underlie movement-evoked pain in individuals with cLBP. We will also evaluate neural oscillations during an experimental pain task and during an innocuous grip-force task.&lt;/p&gt;
+
+&lt;p&gt;The current study is motivated by questions on the modulation of neuronal oscillations during movement-evoked pain, during experimental pain, and during an innocuous grip force task. We test the hypothesis that movement-evoked pain will be associated with attenuated, rather than enhanced, neural oscillations in sensorimotor cortex in cLBP. We further hypothesize that although the cLBP and the control groups will show similar behavioral results in acute pain perception and grip force production, a general pattern of reduced cortical modulation in the sensorimotor brain regions will be found, suggesting a generalized effect of cLBP on sensorimotor circuits.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

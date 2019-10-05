@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stephen A. Coombes | Home</title>
+    <link>/authors/stephen-a.-coombes/</link>
+      <atom:link href="/authors/stephen-a.-coombes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stephen A. Coombes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 07 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Stephen A. Coombes</title>
+      <link>/authors/stephen-a.-coombes/</link>
+    </image>
+    
+    <item>
+      <title>(PERSPECTIVES) Neurophysiological evidence of the dynamic and adaptive pain-motor interaction</title>
+      <link>/publication/journal-article-4/</link>
+      <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated classification of pain perception using high-density electroencephalography data</title>
+      <link>/publication/journal-article-5/</link>
+      <pubDate>Tue, 28 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article-5/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

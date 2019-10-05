@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rachel L.M.Ho | Home</title>
+    <link>/authors/rachel-l.m.ho/</link>
+      <atom:link href="/authors/rachel-l.m.ho/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rachel L.M.Ho</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Rachel L.M.Ho</title>
+      <link>/authors/rachel-l.m.ho/</link>
+    </image>
+    
+    <item>
+      <title>Altered neural oscillations within and between sensorimotor cortex and parietal cortex in chronic jaw pain</title>
+      <link>/publication/journal-article-1/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(PERSPECTIVES) Neurophysiological evidence of the dynamic and adaptive pain-motor interaction</title>
+      <link>/publication/journal-article-4/</link>
+      <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article-4/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

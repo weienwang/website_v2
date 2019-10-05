@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yu-wei Hsieh | Home</title>
+    <link>/authors/yu-wei-hsieh/</link>
+      <atom:link href="/authors/yu-wei-hsieh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yu-wei Hsieh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Yu-wei Hsieh</title>
+      <link>/authors/yu-wei-hsieh/</link>
+    </image>
+    
+    <item>
+      <title>Bilateral robotic priming before task-oriented approach in subacute stroke rehabilitation: a pilot randomized controlled trial</title>
+      <link>/publication/journal-article-6/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article-6/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

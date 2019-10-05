@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Derek B. Archer | Home</title>
+    <link>/authors/derek-b.-archer/</link>
+      <atom:link href="/authors/derek-b.-archer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Derek B. Archer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 28 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Derek B. Archer</title>
+      <link>/authors/derek-b.-archer/</link>
+    </image>
+    
+    <item>
+      <title>Automated classification of pain perception using high-density electroencephalography data</title>
+      <link>/publication/journal-article-5/</link>
+      <pubDate>Tue, 28 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article-5/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

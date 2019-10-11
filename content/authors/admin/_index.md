@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My research uses cutting-edge neuroimaging techniques to understand the neural mechanisms of voluntary movement and pain processing.
+bio: My research uses neuroimaging techniques to understand the neural mechanisms of voluntary movement and pain processing.
 education:
   courses:
   - course: PhD in Biobehavioral Science
@@ -42,6 +42,6 @@ user_groups:
 - Visitors
 ---
 
-Wei-en (Annie) Wang is the doctoral student (ABD) of the [Lab for Rehabilitation Neuroscience](http://lrnlab.org/). Her research focuses on investigating brain mechanisms underlying motor and pain networks, and the impact of pain on motor behaviors. <br/>
+Wei-en (Annie) Wang is a doctoral student working at the [Lab for Rehabilitation Neuroscience](http://lrnlab.org/). Her research focuses on investigating brain mechanisms underlying motor and pain networks. <br/>
 This research combines brain imaging (EEG, MRI/fMRI), electrophysiology recordings (EMG), motor analysis, behavioral measures to study pain and movement.
 

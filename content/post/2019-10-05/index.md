@@ -1,5 +1,5 @@
 ---
-date: "2019-07-12"
+date: "2019-10-05"
 diagram: true
 image:
   caption: 'Image credit: [**How to Write Your First Blog Post**](https://images.app.goo.gl/5jK1fw79DsYbWSzu9)'

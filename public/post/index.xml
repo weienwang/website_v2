@@ -5,7 +5,7 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 12 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 11 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Posts</title>
@@ -13,9 +13,33 @@
     </image>
     
     <item>
+      <title>Conference poster-SfN-2019</title>
+      <link>/post/conference-poster-sfn-2019/</link>
+      <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/post/conference-poster-sfn-2019/</guid>
+      <description>&lt;h4 id=&#34;title&#34;&gt;Title&lt;/h4&gt;
+
+&lt;p&gt;Altered alpha and beta oscillations in parietal and occipital cortices in chronic jaw pain&lt;/p&gt;
+
+&lt;h4 id=&#34;authors&#34;&gt;Authors&lt;/h4&gt;
+
+&lt;p&gt;Wei-en Wang, Rachel L. M. Ho, Stephen A. Coombes&lt;/p&gt;
+
+&lt;h4 id=&#34;author-affiliations&#34;&gt;Author Affiliations&lt;/h4&gt;
+
+&lt;p&gt;Laboratory for Rehabilitation Neuroscience, Department of Applied Physiology and Kinesiology, University of Florida, Gainesville, FL&lt;/p&gt;
+
+&lt;h4 id=&#34;abtract&#34;&gt;Abtract&lt;/h4&gt;
+
+&lt;p&gt;&lt;div style=&#34;text-align: justify&#34;&gt;
+Motor- and pain-related processes separately induce a reduction in alpha and beta power over sensorimotor cortex. When movement and pain occur simultaneously, the effects on alpha and beta power are additive, but this has only been demonstrated in healthy adults when the pain eliciting stimulus and the movement are spatially and temporally overlapping but are independent of one another.  Hence, very little is known about the cortical processes underlying motor-evoked pain. In the current study, we combined high-density electroencephalography with a paradigm in which motor-evoked pain was induced during a visually-guided jaw force task. Eighteen human participants with chronic jaw pain and sixteen control participants produced jaw force at 2% and 15% of their maximum voluntary contraction (MVC). We report 2 novel findings. First, compared to controls, task performance in the chronic jaw pain group was associated with an increase in motor-evoked jaw pain, an increase in motor variability, and an increase in motor error. Second, rather than being additive, motor-evoked pain attenuated the modulation of alpha and beta power, and this was most evident over parietal and occipital regions. Our findings provide the first evidence of the neural basis of motor-evoked jaw pain, and are in line with previous studies that link chronic pain with deficits in attention and visuomotor brain networks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>2020-10-05</title>
       <link>/post/2019-10-05/</link>
-      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/post/2019-10-05/</guid>
       <description>&lt;h2 id=&#34;research-progress&#34;&gt;Research Progress&lt;/h2&gt;
 

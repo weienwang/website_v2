@@ -26,9 +26,12 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   
-  * Analysing and create visualization
-  * Publishing paper
+  
   * Conducting research
+  * Analyzing data
+  * Creating visuals
+  * Publishing papers
+  
   """
 
 [[experience]]

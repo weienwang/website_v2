@@ -17,7 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
-  name = "Matlab  R  Python"
+  name = "Matlab/ R/ Python"
   description = "85%"
 
 [[feature]]
